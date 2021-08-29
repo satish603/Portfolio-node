@@ -1,0 +1,9 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Philosopher:ital,wght@1,700&display=swap');
+body {
+  margin: 0;
+  font-family: 'Philosopher', cursive, serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(to top, #0250c5 0%, #d43f8d 100%);
+}
