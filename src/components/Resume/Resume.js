@@ -8,7 +8,7 @@ import pdf from "../../Assets/satish.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 
 function Resume() {
-  const uri = "https://apis-7s9ay3uo7-satish603.vercel.app/info";
+  const uri = "https://apis-satish603.vercel.app/info";
  
   const [sem, upadateSem] = useState(0);
   const [cgpa, upadteCgpa] = useState(0);
